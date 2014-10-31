@@ -21,13 +21,11 @@ Component which pulls dynamic resource usage information and plot the data on a 
 
 Goal 5: Billing
 Billing component provides the usage summary of number of VCPU hours used by the project or under a tenant for a given month and apply rates accordingly.
-
+![overview.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/overview.png)
 ![login.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/login.png)
 ![dashboard.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/dashboard.png)
-![overview.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/overview.png)
 ![billing.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/billing.png)
 ![createinstance.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/createinstance.png)
 ![images.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/images.png)
-![overview.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/overview.png)
 ![instances.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/instances.png)
 
