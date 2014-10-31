@@ -25,7 +25,7 @@ Billing component provides the usage summary of number of VCPU hours used by the
 ![login.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/login.png)
 ![dashboard.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/dashboard.png)
 ![billing.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/billing.png)
-![createinstance.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/createinstance.png)
 ![images.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/images.png)
 ![instances.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/instances.png)
+![createinstance.png](https://github.com/Sravyadara/Openstack-Dashboard/blob/master/createinstance.png)
 
